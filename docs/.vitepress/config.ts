@@ -44,7 +44,7 @@ export default defineConfig({
     },
     footer: {
       message: "用心学习 Vue3 和 TypeScripts！",
-      copyright: "Copyright  2024 qx",
+      copyright: "Copyright  2024 ",
     },
   },
 });

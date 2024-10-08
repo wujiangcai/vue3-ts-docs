@@ -9,10 +9,11 @@
 You，15 minutes ago·更新 README,添加 LICENSE
 <p>
 <!-- 后面可以加入 ?color=red 这样的参数改变徽章颜色，默认为绿色 -->
+
 ![GitHub License](https://img.shields.io/github/license/wujiangcai/vue3-ts-docs)
 ![GitHub Stars](https://img.shields.io/github/stars/mqxu/vue3-ts-docs)
 ![GitHub Forks](https://img.shields.io/github/forks/mgxu/vue3-ts-docs)
-![Build status](https://img.shields,io/github/workflow/status/mqxu/vue3-ts-docs/CI)
+![Build status](https://img.shields.io/github/workflow/status/mqxu/vue3-ts-docs/CI)
 ![NPM Version](https://img.shields.io/npm/v/vue)
 ![NPM Downloads](https://img.shields.io/npm/dw/vue)
 ![Maintenance](https://img.shields.io/maintenance/yes/2024)

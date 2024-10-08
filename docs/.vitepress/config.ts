@@ -3,10 +3,17 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.vuejs.org/config/app-configs
 export default defineConfig({
     title: "Vue 3 + TypeScript 学习文档",
+<<<<<<< HEAD
     description: "详细学习 Vue3 和 TypeScript 的指南",
     themeConfig: {
         siteTitle: "前端学习",
         logo: "https://cwj-my-bucket.oss-cn-beijing.aliyuncs.com/images/logo.png",
+=======
+    description: "详细学习 Vue3 和 TypeScipt 的指南",
+    themeConfig: {
+        siteTitle: "前端学习",
+        logo: "/assets/logo.png",
+>>>>>>> b3e6980 (提交个人文档页面)
         nav:[
             {text: "首页",link: "/"},
             {text: "指南",link: "/guide"},
@@ -15,7 +22,11 @@ export default defineConfig({
             {text: "常见问题",link: "/faq/"},
         ],
     socialLinks:[
+<<<<<<< HEAD
         {icon : "github",link: "https://github.com/wujiangcai/vue3-ts-docs"},
+=======
+        {icon : "github",link: "https://github.com/wujiangcai/vue3-ts-docs/tree/master"},
+>>>>>>> b3e6980 (提交个人文档页面)
     ],
     sidebar: {
       "/guide/": [
@@ -43,8 +54,13 @@ export default defineConfig({
       ],
     },
     footer: {
+<<<<<<< HEAD
       message: "用心学习 Vue3 和 TypeScript！",
       copyright: "Copyright  2024 ",
+=======
+      message: "用心学习 Vue3 和 TypeScripts！",
+      copyright: "Copyright  2024 qx",
+>>>>>>> b3e6980 (提交个人文档页面)
     },
   },
 });

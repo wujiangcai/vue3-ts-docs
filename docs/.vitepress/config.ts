@@ -9,8 +9,8 @@ export default defineConfig({
         logo: "https://cwj-my-bucket.oss-cn-beijing.aliyuncs.com/images/logo.png",
         nav:[
             {text: "首页",link: "/"},
-            {text: "指南",link: "/guide"},
-            {text: "组件",link: "/components"},
+            {text: "指南",link: "/guide/"},
+            {text: "组件",link: "/components/"},
             {text: "API 参考",link: "/api/"},
             {text: "常见问题",link: "/faq/"},
         ],

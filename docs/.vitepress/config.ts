@@ -35,6 +35,7 @@ export default defineConfig({
           //   colliapsible: true,
           items: [
             { text: "介绍", link: "/components/" },
+            { text: "组件基础", link: "/components/summary" },
             { text: "按钮 Button", link: "/components/button" },
             { text: "表单 Form", link: "/components/form" },
             { text: "表格 Table", link: "/components/table" },
